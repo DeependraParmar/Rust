@@ -1,0 +1,7 @@
+Why Rust?
+- Enforces type-safety for variables and data.
+- Provides access to underlying memory and assets as it is a very-low level language.
+- Incredibly faster than other languages like JS, Python, etc.
+- Rust do have a compiler which converts source code to binary and ultimately running the binary.
+- Allows concurrency: running multiple threads simultaneously.
+- Memory safe: concepts like owners, borrowing anf lifetimes which makes it extremely safe.
